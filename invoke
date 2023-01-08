@@ -1,0 +1,2 @@
+export PYTHONPATH=${PYTHONPATH}:$(pwd)
+python3 standalone/runner.py
